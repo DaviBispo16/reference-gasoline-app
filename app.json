@@ -22,6 +22,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "KEY_PRICE_PER_ALCOHOL": "@key#alcohol",
+      "KEY_PRICE_PER_GASOLINE": "@key#gasoline"
     }
   }
 }
